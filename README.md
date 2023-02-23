@@ -29,7 +29,7 @@ Selecting this option will prompt you to place your own images in the images fol
 Selecting this option will terminate the program.
 
 ## TODO
-- [] Implement graphical user-interface.
+- [ ] Implement graphical user-interface.
 
 
 ## License
